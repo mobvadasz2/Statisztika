@@ -3,7 +3,7 @@ Ez egy plugin ami spigot 1.8-ra lett írva-
 # Parancsok
 - /Stat
 - /Statisztika
-# Más ember stasztikájának a  lekérése
+# Más ember statisztikájának a  lekérése
 - /Stats <PLAYER>
 - /Statisztika <PLAYER>
 # Alkotók
