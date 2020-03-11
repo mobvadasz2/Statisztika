@@ -4,7 +4,7 @@ Ez egy plugin ami spigot 1.8-ra lett írva-
 - /Stat
 - /Statisztika
 # Más ember statisztikájának a  lekérése
-- /Stats <PLAYER>
-- /Statisztika <PLAYER>
+- /Stats <Játékos>
+- /Statisztika <Játékos>
 # Alkotók
 - mobvadasz2 2020.03.11 | voxbestww
