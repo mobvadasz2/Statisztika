@@ -9,4 +9,4 @@ Szükséges permission: stats.*
 - /Stats <Játékos>
 - /Statisztika <Játékos>
 # Alkotók
-- mobvadasz2 2020.03.11 | voxbestww
+- mobvadasz2 2020.03.11 | marvintheskid (HEkker kft.)
