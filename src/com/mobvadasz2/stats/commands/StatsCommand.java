@@ -33,7 +33,7 @@ public class StatsCommand implements CommandExecutor {
                         sender.sendMessage("");
                         sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "§8§m-------------------------------"));
                     } else {
-                        player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&dA játékos nem letézik, vagy nem elérhető"));
+                        player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&dA játékos nem létezik, vagy nem elérhető"));
                     }
                 }
             } else {
